@@ -1,5 +1,5 @@
 
-# Flip Book Project
+#  Good to Great
 Note taking & summaries based on a good read from the Book - Good to Great. 
 ### Acknowledgements
 
